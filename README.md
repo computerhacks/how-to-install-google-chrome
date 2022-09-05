@@ -1,6 +1,6 @@
 # How to Install Google Chrome ?
 
-[![how to install google chrome](red2.png)](https://computersolve.com/how-to-install-google-chrome/)
+[![how to install google chrome](red2.png)](https://icncomputer.com/how-to-install-google-chrome/)
 
 * Go to the download page for Chrome on the Mac you want to install it on. The site detects that you're using a Mac and automatically suggests the right version for you.
 
